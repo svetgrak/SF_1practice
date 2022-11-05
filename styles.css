@@ -1,0 +1,53 @@
+.header {
+    
+    background-color: #6384a2;
+
+}
+
+nav ul{
+
+    text-align: center;
+    color: #DCEAF9;
+
+}
+
+nav a{
+
+    margin-right: 30px;
+    font-size: 30pt;
+    font-weight: 800;
+
+}
+
+body{
+
+    background-color: #314c6f;
+
+}
+
+.main_information{
+
+    color: #DCEAF9
+
+}
+
+.about_me{
+
+   text-align: center;
+
+}
+
+.knowledge{
+
+    text-align: center;
+    
+}
+
+.footer{
+
+    background-color: #6384a2;
+    text-align: center;
+
+}
+
+
